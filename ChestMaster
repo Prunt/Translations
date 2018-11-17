@@ -1,8 +1,0 @@
-lang:
- NO_PERMISSION_CHEST_NUMBER: §cSul pole selleks piisavalt õigusi.
- &7NO_PERMISSION: §cSul pole selleks piisavalt õigusi.
- &7INVALID_CHEST_NUMBER: §b§lLisakirst > §cSee number pole sobiv.
- &7ADM_CHEST_USAGE: §cUse /admchest <player> <chest_number>
- &7CHEST_NAME: §b§lLisakirst
- &7NO_PERMISSION_CREATIVE: &cLoomingulises mängumoodis ei saa seda käsklust kasutada.
-command_name: kirst
